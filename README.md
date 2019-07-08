@@ -84,6 +84,7 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 ## 邮件服务
 说明：邮件服务推荐瑞士的Protonmail,政治上隐私条件较好，用Thunderbird登陆Protonmail，然后使用Enigmail组件加密。  
 使用这一套系统被监控的可能性接近为零，如果OPSEC（行动安全）使用得当。  
+
 [Protonmail](https://protonmail.com/)  
 [Thunderbird](https://www.thunderbird.net/zh-CN/thunderbird/all/)  
 [Enigmail(Thunderbird GPG 加密附加组件](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/)  
