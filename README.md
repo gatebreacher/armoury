@@ -29,22 +29,6 @@
 [Win](https://github.com/gatebreacher/files/raw/master/wujie.exe)  
 [Android](https://github.com/gatebreacher/files/raw/master/wujie.apk)  
 
-加密通讯工具
-=======
-## Signal（即时通信/IM）
-[Android_part1](https://github.com/gatebreacher/files/raw/master/signal_android.7z.001) 
-[Android_part2](https://github.com/gatebreacher/files/raw/master/signal_android.7z.002)  
-
-[Win_part1](https://github.com/gatebreacher/files/raw/master/signal_win.7z.001) 
-[Win_part2](https://github.com/gatebreacher/files/raw/master/signal_win.7z.002) 
-[Win_part3](https://github.com/gatebreacher/files/raw/master/signal_win.7z.003) 
-[Win_part4](https://github.com/gatebreacher/files/raw/master/signal_win.7z.004)  
-
-[MacOS_part1](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.001)
-[MacOS_part2](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.002)
-[MacOS_part3](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.003)
-[MacOS_part4](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.004)  
-
 ## 自由门
 [Win](https://github.com/gatebreacher/files/raw/master/fg768p.exe)  
 
@@ -68,6 +52,33 @@
 Resilio Sync 同步密钥  
 i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG  
 
+
+
+加密通讯工具
+=======
+
+## Signal（即时通信/IM）
+
+[Android_part1](https://github.com/gatebreacher/files/raw/master/signal_android.7z.001) 
+
+[Android_part2](https://github.com/gatebreacher/files/raw/master/signal_android.7z.002) 
+
+[Win_part1](https://github.com/gatebreacher/files/raw/master/signal_win.7z.001) 
+
+[Win_part2](https://github.com/gatebreacher/files/raw/master/signal_win.7z.002) 
+
+[Win_part3](https://github.com/gatebreacher/files/raw/master/signal_win.7z.003) 
+
+[Win_part4](https://github.com/gatebreacher/files/raw/master/signal_win.7z.004)  
+
+
+[MacOS_part1](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.001) 
+
+[MacOS_part2](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.002) 
+
+[MacOS_part3](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.003) 
+
+[MacOS_part4](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.004)  
 
 ![Image](Icon-pictures.png "icon")
 
