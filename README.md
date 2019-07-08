@@ -19,7 +19,8 @@
 ## I2P
 [官网](https://geti2p.net/en/)
 可用，速度慢，安全性高。  
-[JAR](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41.jar) [Win](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41_windows.exe)  
+[JAR](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41.jar)  
+[Win](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41_windows.exe)  
 [MacOS_part1](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.001)  
 [MacOS_part2](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.002)
 ## 赛风
@@ -79,6 +80,19 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 [MacOS_part3](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.003) 
 
 [MacOS_part4](https://github.com/gatebreacher/files/raw/master/signal_mac.7z.004)  
+
+## 邮件服务
+说明：邮件服务推荐瑞士的Protonmail,政治上隐私条件较好，用Thunderbird登陆Protonmail，然后使用Enigmail组件加密。  
+使用这一套系统被监控的可能性接近为零，如果OPSEC（行动安全）使用得当。
+[Protonmail](https://protonmail.com/)  
+[Thunderbird](https://www.thunderbird.net/zh-CN/thunderbird/all/)  
+[Enigmail(Thunderbird GPG 加密附加组件](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/)  
+
+## 操作系统
+推荐[Fedora](https://getfedora.org/en/workstation/download/)作为常用系统，使用简单，兼顾安全性（安装时可以选择全盘加密。）  
+推荐[QubesOS](https://www.qubes-os.org/downloads/)作为高安全性系统，每一个程序可以隔离为一个虚拟机，斯诺登推荐。  
+## 浏览器
+[Firefox](https://www.mozilla.org/en-US/firefox/new/?lang=zh-CN#)  
 
 ![Image](Icon-pictures.png "icon")
 
