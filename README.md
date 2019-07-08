@@ -18,7 +18,9 @@
 请使用7zip解压 [下载连接（x64）](https://www.7-zip.org/a/7z1900-x64.exe) [下载链接(x86)](https://www.7-zip.org/a/7z1900.exe)
 ## I2P
 可用，速度慢，安全性高。  
-[JAR](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41.jar) [Win](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41_windows.exe) [MacOS_part1](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.001)[MacOS_part2](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.002)
+[JAR](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41.jar) [Win](https://github.com/gatebreacher/files/raw/master/i2pinstall_0.9.41_windows.exe) 
+[MacOS_part1](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.001) 
+[MacOS_part2](https://github.com/gatebreacher/files/raw/master/i2pmac.7z.002)
 ## 赛风
 [Win](https://github.com/gatebreacher/files/raw/master/psiphon3.exe) 
 [Android](https://github.com/gatebreacher/files/raw/master/PsiphonAndroid.apk)
