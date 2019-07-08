@@ -94,4 +94,4 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 推荐[QubesOS](https://www.qubes-os.org/downloads/)作为高安全性系统，每一个程序可以隔离为一个虚拟机，斯诺登推荐。  
 推荐[Tails](https://tails.boum.org/)作为无记录系统，使用后会清除所有痕迹，内置Tor。  
 ## 浏览器
-[Firefox](https://www.mozilla.org/en-US/firefox/new/?lang=zh-CN#)  
+[Firefox](https://www.mozilla.org/zh-CN/firefox/new/?lang=zh-CN)  
