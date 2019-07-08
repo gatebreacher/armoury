@@ -91,12 +91,6 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 ## 操作系统
 推荐[Fedora](https://getfedora.org/en/workstation/download/)作为常用系统，使用简单，兼顾安全性（安装时可以选择全盘加密。）  
 推荐[QubesOS](https://www.qubes-os.org/downloads/)作为高安全性系统，每一个程序可以隔离为一个虚拟机，斯诺登推荐。  
+推荐[Tails](https://tails.boum.org/)作为无记录系统，使用后会清除所有痕迹，内置Tor。  
 ## 浏览器
 [Firefox](https://www.mozilla.org/en-US/firefox/new/?lang=zh-CN#)  
-
-![Image](Icon-pictures.png "icon")
-
-
-> Markdown uses email-style > characters for blockquoting.
-
-Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
