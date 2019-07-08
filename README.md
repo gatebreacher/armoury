@@ -87,7 +87,7 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 
 [Protonmail](https://protonmail.com/)  
 [Thunderbird](https://www.thunderbird.net/zh-CN/thunderbird/all/)  
-[Enigmail(Thunderbird GPG 加密附加组件](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/)  
+[Enigmail(Thunderbird GPG 加密附加组件)](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/)  
 
 ## 操作系统
 推荐[Fedora](https://getfedora.org/en/workstation/download/)作为常用系统，使用简单，兼顾安全性（安装时可以选择全盘加密。）  
