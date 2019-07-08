@@ -46,6 +46,7 @@
 
 ## 自由门
 [Win](https://github.com/gatebreacher/files/raw/master/fg768p.exe)  
+
 ## 蓝灯
 [Android](https://github.com/gatebreacher/files/raw/master/lantern/lantern-installer.apk) 
 [Win](https://github.com/gatebreacher/files/raw/master/lantern/lantern-installer.exe) 
