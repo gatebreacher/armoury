@@ -11,7 +11,11 @@
 洋葱浏览器 Meek + Azure 仍然可用，速度慢，安全性高  
 [Tor官网](https://www.torproject.org/)  
 下载链接  
+[part1](https://raw.githubusercontent.com/gatebreacher/files/master/tor_win.7z.001)
+[part2](https://raw.githubusercontent.com/gatebreacher/files/master/tor_win.7z.002)
+[part3](https://raw.githubusercontent.com/gatebreacher/files/master/tor_win.7z.003)
 
+请使用7zip解压 [下载连接（x64）](https://www.7-zip.org/a/7z1900-x64.exe) [下载链接(x86)](https://www.7-zip.org/a/7z1900.exe)
 ## 
 
 An [example](http://example.com)
