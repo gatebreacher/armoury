@@ -95,3 +95,10 @@ i2p种子文件 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG
 推荐[Tails](https://tails.boum.org/)作为无记录系统，使用后会清除所有痕迹，内置Tor。  
 ## 浏览器
 [Firefox](https://www.mozilla.org/zh-CN/firefox/new/?lang=zh-CN)  
+
+教程（待写）
+=======
+如何使用Signal  
+如何使用GPG  
+如何使用XMPP OTR加密即时通讯
+如何使用Thunderbird, Protonmail, Enigmail 加密邮件
